@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/netofidea/KK_apps/node_modules/react-native/React/Base/RCTFrameUpdate.m \
+  /Users/netofidea/KK_apps/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/netofidea/KK_apps/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/netofidea/KK_apps/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/netofidea/KK_apps/node_modules/react-native/React/Base/RCTDefines.h

@@ -1,0 +1,47 @@
+{
+  "name": "KK_apps",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.14.0",
+    "jest-expo": "~27.0.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^6.3.1",
+    "@expo/videoplayer": "^0.4.0",
+    "axios": "^0.18.0",
+    "expo": "^27.0.1",
+    "get-youtube-id": "^1.0.0",
+    "native-base": "^2.8.0",
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "react-native-awesome-alerts": "^1.1.1",
+    "react-native-button": "^2.3.0",
+    "react-native-easy-toast": "^1.1.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-popup-dialog": "^0.15.0",
+    "react-native-vector-icons": "^5.0.0",
+    "react-native-video": "^3.2.1",
+    "react-native-webview": "git+https://github.com/react-native-community/react-native-webview.git",
+    "react-native-youtube": "^1.1.0",
+    "react-navigation": "^2.16.0",
+    "tcomb-form-native": "^0.6.19"
+  }
+}
